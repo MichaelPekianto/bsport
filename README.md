@@ -67,8 +67,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## Step by step to run the project after clone
+
 1. Go to your code editor to open the project
-2. Open terminal and then type cp .env.example .env
+2. Open terminal and then run this command 'cp .env.example .env'
 3. Run this command in your terminal 'npm run build'
 4. Open new terminal to run this command 'php artisan key:generate'
 5. Run 'php artisan serve'
