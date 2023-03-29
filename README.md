@@ -64,3 +64,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Step by step to run the project after clone
+1. Go to your code editor to open the project
+2. Open terminal and then type cp .env.example .env
+3. Run this command in your terminal 'npm run build'
+4. Open new terminal to run this command 'php artisan key:generate'
+5. Run 'php artisan serve'
